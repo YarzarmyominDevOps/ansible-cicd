@@ -1,0 +1,4 @@
+/.github/workflows/
+/devops
+/node_modules
+/gitlab-ci.yml
